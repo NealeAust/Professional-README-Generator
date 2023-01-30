@@ -1,35 +1,38 @@
-# README-Generator
+# Professional README Generator
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 ## Table of Contents
 - [Project Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Username](#username)
-- [Email](#email)
-- [License](#license)
+- [Questions](#questions)
 
 ## Description
-To build a README generator
+To build a README generator using Node.js
 
 ## Installation
-undefined
+Yes
 
 ## Usage
-Simply respond to questions
+Yes
 
 ## Contributing
-Refer contribution guidlines section
+Yes
 
 ## Tests
-Refer documentation
+Yes
 
-## Username
-https://github.com/NealeAust?tab=repositories
 
-## Email
-nealechapman@optushome.com.au
+## Questions
+
+If you have any questions or queries regarding this application please do not hesitate to contact me.
+
+- I can be contacted via Github at: (https://github.com/NealeAust), OR
+
+- By email at nealechapman@optushome.com.au
 
 ## License
-MIT
-
+Apache-2.0
