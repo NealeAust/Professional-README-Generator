@@ -12,19 +12,19 @@
 - [License](#license)
 
 ## Description
-To build a command-line application that dynamically generates a professional README.md file from the user's input using the inquirer package.
+To build a command line application that dynamically generates a professional README.md file from the user's input using the inquirer package.
 
 ## Installation
 To install the application, simply download from Github <br> - Ensure inquirer and fs packages are installed.
 
 ## Usage
-Open the integrated terminal and type in 'node index.js'. When prompted, enter responses to each question or request for information. Once all   responses are supplied the program will generate a README.md.
+Open the integrated terminal and type in 'node index.js'. When prompted, enter responses to each question or request for information. Once all responses are supplied the program will generate a README.md.
 
 ## Contributing
-As this a public repository, please feel free to contribute your ideas.
+As this is a public repository, please feel free to contribute your ideas.
 
 ## Tests
-To test the application, you simply type the following command into your command-line: node index.js.
+To test the application, you simply type the following command into your command line: node index.js.
 
 ## Questions
 
