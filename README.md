@@ -1,30 +1,30 @@
 # Professional README Generator
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
-- [Project Description](#description)
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+- [License](#license)
 
 ## Description
-To build a README generator using Node.js
+To build a command-line application that dynamically generates a professional README.md file from the user's input using the inquirer package.
 
 ## Installation
-Yes
+To install the application, simply download from Github <br> - Ensure inquirer and fs packages are installed.
 
 ## Usage
-Yes
+Open the integrated terminal and type in 'node index.js'. When prompted, enter responses to each question or request for information. Once all   responses are supplied the program will generate a README.md.
 
 ## Contributing
-Yes
+As this a public repository, please feel free to contribute your ideas.
 
 ## Tests
-Yes
-
+To test the application, you simply type the following command into your command-line: node index.js.
 
 ## Questions
 
@@ -35,4 +35,4 @@ If you have any questions or queries regarding this application please do not he
 - By email at nealechapman@optushome.com.au
 
 ## License
-Apache-2.0
+MIT
